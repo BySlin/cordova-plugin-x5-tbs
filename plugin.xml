@@ -62,6 +62,8 @@
                      target-dir="src/com/zsxsoft/cordova/x5"/>
         <source-file src="platforms/android/src/com/zsxsoft/cordova/x5/X5WebViewEngine.java"
                      target-dir="src/com/zsxsoft/cordova/x5"/>
+        <source-file src="platforms/android/src/com/zsxsoft/cordova/x5/X5Activity.java"
+                     target-dir="src/com/zsxsoft/cordova/x5"/>
 
         <lib-file
                 src="platforms/android/libs/tbs_sdk_thirdapp_v4.3.0.39_43939_sharewithdownloadwithfile_withoutGame_obfs_20200713_223411.jar"/>
